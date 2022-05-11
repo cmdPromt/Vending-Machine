@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eab1749f-8d65-4ae2-80af-b29ee813c638" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="279ehX5g10WEPtQq7J0Rxb7cKM6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.techelevator.view" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CaTEringCapstoneCLI">
+    <configuration name="CaTEringCapstoneCLI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.CaTEringCapstoneCLI" />
+      <module name="m1-java-caTEring-capstone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountingTest.changeBack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m1-java-caTEring-capstone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.view" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.view.AccountingTest" />
+      <option name="METHOD_NAME" value="changeBack" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in m1-java-caTEring-capstone" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m1-java-caTEring-capstone" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuTest.getStock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m1-java-caTEring-capstone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.view" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.view.MenuTest" />
+      <option name="METHOD_NAME" value="getStock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.techelevator.view in m1-java-caTEring-capstone" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m1-java-caTEring-capstone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.view" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CaTEringCapstoneCLI" />
+        <item itemvalue="JUnit.All in m1-java-caTEring-capstone" />
+        <item itemvalue="JUnit.com.techelevator.view in m1-java-caTEring-capstone" />
+        <item itemvalue="JUnit.MenuTest.getStock" />
+        <item itemvalue="JUnit.AccountingTest.changeBack" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eab1749f-8d65-4ae2-80af-b29ee813c638" name="Changes" comment="" />
+      <created>1648736849271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648736849271</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/capstone$MenuTest_getStock.ic" NAME="MenuTest.getStock Coverage Results" MODIFIED="1648855415723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.view.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/capstone$MenuTest.ic" NAME="MenuTest Coverage Results" MODIFIED="1648851684684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.view.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/capstone$MenuTest_productExists.ic" NAME="MenuTest.productExists Coverage Results" MODIFIED="1648853841870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.view.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/capstone$MenuTest_getPrice.ic" NAME="MenuTest.getPrice Coverage Results" MODIFIED="1648853848506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.view.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/capstone$AccountingTest_changeBack.ic" NAME="AccountingTest.changeBack Coverage Results" MODIFIED="1648855041138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.view.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/capstone$MenuTest_getName.ic" NAME="MenuTest.getName Coverage Results" MODIFIED="1648854454616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.view.*</FILTER>
+    </SUITE>
+  </component>
+</project>
